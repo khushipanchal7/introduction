@@ -8,6 +8,9 @@ _italic_ with underscore \
 <ins>underline<ins> \
 ~~strikethrough~~  
 |rollno|name|class|grades|
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|  
+|1|ram|bca|a|  
+|2|sita|bca|a|
+
 
 
