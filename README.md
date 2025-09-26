@@ -5,4 +5,6 @@
 __another method__ bold with underscore
 *italic* with stars
 _italic_ with underscore
+<ins>underline<ins>
+``strikethrough``
 
